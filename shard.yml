@@ -1,0 +1,14 @@
+name: guru
+version: 0.1.0
+description: Dead-simple background jobs
+
+authors:
+  - GrottoPress <info@grottopress.com>
+  - N Atta Kusi Adusei
+
+crystal: ~> 0.36.0
+
+dependencies:
+  tasker:
+    github: spider-gazelle/tasker
+    version: ~> 2.0
